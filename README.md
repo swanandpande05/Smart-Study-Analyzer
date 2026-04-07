@@ -80,8 +80,7 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-*(Add screenshots of your Streamlit app here)*
-
+![App Screenshot](screenshot.png)
 ---
 
 ## 🔮 Future Improvements
